@@ -1,6 +1,7 @@
 ### Hello there 👋 I’m Matias R. Vazquez, PhD.
 
 My academic background is in physics, and I am passionate about science, coding, and building cool stuff.
+
 I am now a Senior Data Scientist at @Deloitte
 - 👀 I’m interested in AI, Data Science, and Quantum Physics.
 - 🌱 I’m currently learning MLOps, cooking curry and surfing shortboards.
