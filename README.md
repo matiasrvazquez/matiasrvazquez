@@ -2,9 +2,9 @@
 
 My academic background is in physics, and I am passionate about science, coding, and building cool stuff.
 
-I am now a Lead Data Scientist at @Deloitte Ventures
-- 👀 I’m interested in AI, Data Science, and Quantum Physics.
-- 🌱 I’m currently woringk on Graph Neural Networks, Scientific ML and MLOps.
+I work as Senior Data Scientist at @PhysicsXLtd, blending physics with AI to transform the way we do engineering.
+- 👀 I’m interested in AI, Data Science, and Theoretical Physics.
+- 🌱 I’m currently woringk on Geometric Deep Learning, Scientific ML and MLOps.
 - 💞️ I’m looking to collaborate on any sufficently nerdy and science-related project.
 - 📫 Get in touch 👉🏽 https://www.linkedin.com/in/matiasrvazquez/
 
